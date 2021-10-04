@@ -27,7 +27,7 @@ int main(int argc, char *argv[])
 				count++;
 		}
 		if (count == 0)
-			printf("la nguyen to %d\n", j);
+			printf("%d ", j);
 		/**else
 			printf(" khong la so nguyen to");**/
 	}
